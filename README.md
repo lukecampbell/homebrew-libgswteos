@@ -4,7 +4,7 @@ C Library for the TEOS-10 Gibbs Seawater Toolkit
 
 ## Tap it
 
-`brew tap lukecampbell/hombrew-libgswteos`
+`brew tap lukecampbell/homebrew-libgswteos`
 
 ## Install it
 
